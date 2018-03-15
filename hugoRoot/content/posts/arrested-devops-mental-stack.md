@@ -5,7 +5,7 @@ draft: false
 ---
 
 #### Link to Arrested DevOps Site ####
-[Arrested DevOps – Episode 8 – Managing Your Mental Stack]({{<ref "https://www.arresteddevops.com/managing-your-mental-stack">}})
+<a href="https://www.arresteddevops.com/managing-your-mental-stack" target=_blank>Arrested DevOps – Episode 8 – Managing Your Mental Stack</a>
 
 #### Video Version ####
 {{< youtube oE-9shO_-1o >}}

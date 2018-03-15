@@ -6,7 +6,7 @@ draft: false
 
 
  #### Link to Arrested DevOps Site ####
- [Arrested DevOps – Episode 17 – Help! I Need Somebody!]({{<ref "https://www.arresteddevops.com/get-help">}})
+<a href="https://www.arresteddevops.com/get-help" target=_blank>Arrested DevOps – Episode 17 – Help! I Need Somebody!</a>
 
 #### Video Version ####
 {{< youtube AGpQd_ub36Q >}}
