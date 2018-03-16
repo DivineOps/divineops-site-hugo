@@ -184,7 +184,7 @@ margin-top: 4px;
 }
 
 section.post {
-margin-bottom: 30px;
+margin-bottom: 40px;
 }
 
 .section {
@@ -330,6 +330,9 @@ display: block;
   }
   #sidebar-menu-checkbox:checked ~ #container-mask {
     display: none;
+  }
+  #container{
+    padding: 2rem 12rem 0 2rem;
   }
 }
 
