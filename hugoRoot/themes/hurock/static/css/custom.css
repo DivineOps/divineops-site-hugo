@@ -132,6 +132,11 @@ color: #b5bd68;
 color: #ffa;
 }
 
+.sidebar-bookpromo{
+  margin-top: 20px;
+  text-align: center;
+}
+
 .sidebar hr {
 margin: 2rem 0;
 }

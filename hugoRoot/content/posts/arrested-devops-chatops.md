@@ -1,6 +1,6 @@
 ---
 title: "Arrested DevOps Podcast - ChatOps Extravaganza"
-date: 2014-07-10T00:00:00-05:00
+date: 2015-01-10T00:00:00-05:00
 draft: false
 ---
 
