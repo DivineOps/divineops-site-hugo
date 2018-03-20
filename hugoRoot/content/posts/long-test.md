@@ -1,6 +1,6 @@
 ---
 title: "Prompt for Sign-In on 401 – Unauthorized Errors in MVC App with Azure Active Directory Using WS Federation"
-date: 2018-03-10T00:00:00-05:00
+date: 2012-03-10T00:00:00-05:00
 draft: true
 ---
 
