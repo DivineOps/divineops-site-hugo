@@ -11,4 +11,6 @@ A conversation with Columbia college professor David Gerding, <a href="https://t
 <a href="https://www.arresteddevops.com/get-help" target=_blank>Arrested DevOps – Episode 17 – Help! I Need Somebody!</a>
 
 ##### Video Version #####
-{{< youtube AGpQd_ub36Q >}}
+<a href="https://www.youtube.com/watch?v=AGpQd_ub36Q" target=_blank>Arrested DevOps – Episode 17 – Help! I Need Somebody! (YouTube)</a>
+
+<!-- {{< youtube AGpQd_ub36Q >}} -->

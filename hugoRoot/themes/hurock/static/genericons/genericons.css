@@ -10,10 +10,11 @@
    So unfortunately, IE9 will throw a console error, but it'll still work.
    When the font is base64 encoded, cross-site embedding works in Firefox */
 
-@font-face {
+
+/* @font-face {
     font-family: 'Genericons';
     src: url('Genericons.eot');
-}
+} */
 
 @font-face {
     font-family: 'Genericons';

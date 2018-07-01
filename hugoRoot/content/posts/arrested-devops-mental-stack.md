@@ -10,4 +10,5 @@ A conversation with <a href="https://twitter.com/DivineOps" target=_blank>your t
 <a href="https://www.arresteddevops.com/managing-your-mental-stack" target=_blank>Arrested DevOps – Episode 8 – Managing Your Mental Stack</a>
 
 ##### Video Version #####
-{{< youtube oE-9shO_-1o >}}
+<a href="https://www.youtube.com/watch?v=oE-9shO_-1o" target=_blank>Arrested DevOps – Episode 8 – Managing Your Mental Stack (YouTube)</a>
+<!-- {{< youtube oE-9shO_-1o >}} -->
